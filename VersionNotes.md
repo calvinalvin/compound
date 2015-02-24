@@ -1,3 +1,6 @@
+### v1.2.2-1 | Feb 24, 2015
+- use checksums.json for asset tag versions in stylesheet_link_tag_versioned, javascript_include_tag_versioned
+
 ### v1.1.9-3
 - update kontroller dependency to use forked version with custom protectFromForgery() that protects any 'GET's that are X-AJX or X-PJAX requests
 
